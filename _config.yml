@@ -1,0 +1,10 @@
+name: "tech.gozoomo"
+description: "gozoomo tech blog"
+
+url: "localhost:4000"
+
+paginate: 20
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
